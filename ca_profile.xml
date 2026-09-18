@@ -3,4 +3,5 @@
   <Profile>Unraid Community Applications templates maintained by SEC844. This repository currently ships Analysarr, a self-hosted dashboard that brings together Emby or Jellyfin, Sonarr, Radarr and your torrent client (qBittorrent, Deluge or Transmission) to show the health of every movie and series across the stack: duplicates, orphan torrents, broken hardlinks, single-tracker content and episodes never imported by the media server. Support questions, bug reports and feature requests are welcome on the Unraid forum support thread or on GitHub.</Profile>
   <Icon>https://raw.githubusercontent.com/SEC844/unraid-templates/main/icon.svg</Icon>
   <WebPage>https://github.com/SEC844/unraid-templates</WebPage>
+  <Forum>https://forums.unraid.net/topic/200625-support-sec844-analysarr/</Forum>
 </CommunityApplications>

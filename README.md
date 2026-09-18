@@ -26,7 +26,7 @@ Paths → Path diagnostics reports a missing mount immediately.
 
 ## Support
 
-Unraid forum support thread, or [issues on the project repository](https://github.com/SEC844/Analysarr/issues).
+[Unraid forum support thread](https://forums.unraid.net/topic/200625-support-sec844-analysarr/), or [issues on the project repository](https://github.com/SEC844/Analysarr/issues).
 
 ## License
 
